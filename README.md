@@ -15,7 +15,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Cisco Network Configuration](https://github.com/Haggag-22/Network-Configuration)
+- [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/Networking.pkt)
 - [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/tree/main)
 - [Python Password Generator](https://github.com/Haggag-22/python_PasswordGenerator/tree/main)
 
