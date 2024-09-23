@@ -11,6 +11,21 @@
 - 🌱 I'm currently growing my skills in **Splunk and Wireshark**
   
 - 📫 Reach me on Discord: haggag0058
+  
+  
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- [Network Architecture](https://github.com/Haggag-22/Network-Configuration)
+- [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/tree/main)
+- [Python Password Generator](https://github.com/Haggag-22/python_PasswordGenerator/tree/main)
+
+
+<h2>:bookmark_tabs: Certifications:</h2>
+
+- CompTIA Security+
+- CompTIA Network+
+- BTL1 (Blue Team Level 1)
+- Splunk Core Certified User
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
