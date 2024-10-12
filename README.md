@@ -15,6 +15,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
 - [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/Networking.pkt)
 - [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/blob/main/Port%20Scanner.py)
 - [Python Password Generator](https://github.com/Haggag-22/python_PasswordGenerator/blob/main/Password%20Generator.py)
