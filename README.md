@@ -26,6 +26,7 @@
 - CompTIA Security+
 - CompTIA Network+
 - BTL1 (Blue Team Level 1)
+- Splunk Core Certified Power User
 - Splunk Core Certified User
 
 <h3 align="left">Connect with me:</h3>
