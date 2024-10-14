@@ -13,7 +13,7 @@
 - 📫 Reach me on Discord: haggag0058
   
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
