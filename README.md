@@ -16,6 +16,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
+- [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
 - [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/Networking.pkt)
 - [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/blob/main/Port%20Scanner.py)
