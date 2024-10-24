@@ -22,6 +22,7 @@
 - [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/blob/main/Port%20Scanner.py)
 - [Python Password Generator](https://github.com/Haggag-22/python_PasswordGenerator/blob/main/Password%20Generator.py)
 - [Actice Directory Configuration and Hardening](https://medium.com/@omhg22/active-directory-configuration-and-hardening-c1db7cb2e358)
+- [Critical Windows Core Processes Blog](https://medium.com/@omhg22/critical-windows-core-processes-1a104463cf20)
 - [Conducting an OSINT Research using Linux](https://medium.com/@omhg22/conducting-an-osint-research-1536dab52f44)
 
 
