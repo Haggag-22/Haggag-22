@@ -17,6 +17,7 @@
 
 - [Intrusion Detection using Splunk](https://medium.com/@omhg22/intrusion-detection-using-splunk-530567348385)
 - [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
+- [Malware Analysis of RAT](https://medium.com/@omhg22/malware-analysis-of-a-rat-static-and-dynamic-techniques-a386323e7b0d)
 - [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
