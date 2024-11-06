@@ -17,6 +17,7 @@
 
 - [Intrusion Detection using Splunk](https://medium.com/@omhg22/intrusion-detection-using-splunk-530567348385)
 - [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
+- [Reverse Engineering and Malware Analysis of WannaCry Ransomware](https://medium.com/@omhg22/wannacry-ransomware-reverse-engineering-and-malware-analysis-b425b9f21215)
 - [Malware Analysis of RAT](https://medium.com/@omhg22/malware-analysis-of-a-rat-static-and-dynamic-techniques-a386323e7b0d)
 - [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
