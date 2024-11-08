@@ -21,6 +21,7 @@
 - [Malware Analysis of RAT](https://medium.com/@omhg22/malware-analysis-of-a-rat-static-and-dynamic-techniques-a386323e7b0d)
 - [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
+- [Yara Detection Rules](https://github.com/Haggag-22/Yara_Malware_Detection_Rules)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
 - [TCPDump Network Analysis](https://medium.com/@omhg22/analyzing-network-traffic-with-tcpdump-cce501d08254)
 - [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/Networking.pkt)
