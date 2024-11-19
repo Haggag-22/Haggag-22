@@ -23,6 +23,7 @@
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
 - [Yara Detection Rules](https://github.com/Haggag-22/Yara_Malware_Detection_Rules)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
+- [Phishing Analysis and Detection](https://medium.com/@omhg22/phishing-analysis-and-detection-07de5dbee413)
 - [TCPDump Network Analysis](https://medium.com/@omhg22/analyzing-network-traffic-with-tcpdump-cce501d08254)
 - [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/Networking.pkt)
 - [Python Port Scanner](https://github.com/Haggag-22/python_PortScanner/blob/main/Port%20Scanner.py)
