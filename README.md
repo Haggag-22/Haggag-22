@@ -20,6 +20,7 @@
 - [Reverse Engineering and Malware Analysis of WannaCry Ransomware](https://medium.com/@omhg22/wannacry-ransomware-reverse-engineering-and-malware-analysis-b425b9f21215)
 - [Live Windows Endpoint Incident Response](https://medium.com/@omhg22/live-windows-endpoint-incident-response-detecting-and-removing-persistence-mechanisms-62ed2fb15439)
 - [Malware Analysis of RAT](https://medium.com/@omhg22/malware-analysis-of-a-rat-static-and-dynamic-techniques-a386323e7b0d)
+- [Linux Incident Response: Detecting Malicious Executable](https://medium.com/@omhg22/incident-response-investigating-a-compromised-linux-server-f4b1753d0a16)
 - [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
 - [Yara Detection Rules](https://github.com/Haggag-22/Yara_Malware_Detection_Rules)
