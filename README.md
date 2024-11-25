@@ -23,6 +23,7 @@
 - [Linux Incident Response: Detecting Malicious Executable](https://medium.com/@omhg22/incident-response-investigating-a-compromised-linux-server-f4b1753d0a16)
 - [Sysmon Threat Analysis](https://medium.com/@omhg22/monitoring-malicious-activities-with-sysmon-42f7da02d4e7)
 - [Threat Detection with Elastic SIEM](https://medium.com/@omhg22/threat-detection-with-elastic-5c179fa4c7fe)
+- [Linux-Based Log File Analysis for SQL Injection](https://medium.com/@omhg22/analyzing-malicious-a-log-file-with-linux-terminal-db1a311bb3e1)
 - [Yara Detection Rules](https://github.com/Haggag-22/Yara_Malware_Detection_Rules)
 - [Vulnerability Management using Nessus](https://medium.com/@omhg22/vulnerability-management-of-metasploitable-vm-using-nessus-ddb04fa0d17e)
 - [Phishing Analysis and Detection](https://medium.com/@omhg22/phishing-analysis-and-detection-07de5dbee413)
