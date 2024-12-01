@@ -17,7 +17,7 @@
 
 - [Intrusion Detection using Splunk](https://medium.com/@omhg22/intrusion-detection-using-splunk-530567348385)
 - [Wireshark Analysis and OSINT Investigation of Malicious Traffic](https://github.com/Haggag-22/Wireshark-Network-Traffic-Analysis)
-- [Cisco Network Configuration](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/README.md)
+- [Cisco Network Implementation & Configuration ](https://github.com/Haggag-22/Cisco_Network_Configuration/blob/main/README.md)
 - [Reverse Engineering and Malware Analysis of WannaCry Ransomware](https://medium.com/@omhg22/wannacry-ransomware-reverse-engineering-and-malware-analysis-b425b9f21215)
 - [Live Windows Endpoint Incident Response](https://medium.com/@omhg22/live-windows-endpoint-incident-response-detecting-and-removing-persistence-mechanisms-62ed2fb15439)
 - [Malware Analysis of RAT](https://medium.com/@omhg22/malware-analysis-of-a-rat-static-and-dynamic-techniques-a386323e7b0d)
