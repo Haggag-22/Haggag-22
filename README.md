@@ -2,22 +2,24 @@
 <a href="https://www.linkedin.com/in/omar-haggag-18622a1b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
--🤺 I'm currently a student at Rochester Institute of Technology, majoring in Cybersecurity.
+- 🤺 I'm currently a student at Rochester Institute of Technology, majoring in Cybersecurity.
 
-- 📝 I regularly write articles on [https://www.daycyberwox.com]([HERE](https://securitymatrixblogs.substack.com/))
+- 📝 I regularly write articles on [HERE!](https://securitymatrixblogs.substack.com/)
 
--🏗️ Expanding my expertise in Security Engineering by designing secure systems, automating security workflows, and enhancing detection capabilities.
+- 🏗️ Expanding my expertise in Security Engineering by designing secure systems, automating security workflows, and enhancing detection capabilities.
 
--☁️ Currently expanding my expertise in Cloud Security, learning to secure environments in AWS.
+- ☁️ Currently deepening my expertise in Cloud Security, focusing on securing environments in AWS.
 
--⚙️ I'm currently focusing on automation — building playbooks, scripts, and automated workflows to enhance security operations.
+- ⚙️ Actively working on automation — creating playbooks, scripts, and automated workflows to improve security operations.
  
 - 📫 Reach me on Discord: haggag0058
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haggag-22&show_icons=true&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haggag-22&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haggag-22&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haggag-22&layout=compact&theme=dark)
 
 <h2>:bookmark_tabs: Certifications</h2>
 
